@@ -1,6 +1,6 @@
-# flutterbottommodal
+# flutter_bottom_modal
 
-A new Flutter module.
+flutter_bottom_modal like MIUI11
 
 ## Getting Started
 
