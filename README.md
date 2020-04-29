@@ -6,3 +6,7 @@ flutter_bottom_modal like MIUI11
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.dev/).
+
+
+## LICENSE
+MIT
